@@ -1,0 +1,16 @@
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\API.Core.deps.json
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\API.Core.dll
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\API.Core.pdb
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\ProductOFSystem.Model.dll
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\Common.pdb
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\bin\Debug\netcoreapp3.1\ProductOFSystem.Model.pdb
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfo.cs
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CopyComplete
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.dll
+G:\ASP DotNet Projects\ProductOFSystem\API.Core\obj\Debug\netcoreapp3.1\API.Core.pdb

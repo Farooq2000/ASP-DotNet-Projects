@@ -1,0 +1,16 @@
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\CMS.API.Core.deps.json
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\CMS.API.Core.dll
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\CMS.API.Core.pdb
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.AssemblyInfo.cs
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.dll
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.pdb
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\DataServices.dll
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\Model.dll
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\DataServices.pdb
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\Model.pdb
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\CMS\CMS.API.Core\obj\Debug\netcoreapp3.1\CMS.API.Core.csproj.CopyComplete
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\CMS\CMS.API.Core\bin\Debug\netcoreapp3.1\Common.pdb

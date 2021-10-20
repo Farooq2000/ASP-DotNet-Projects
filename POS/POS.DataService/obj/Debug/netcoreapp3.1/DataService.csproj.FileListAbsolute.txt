@@ -1,0 +1,56 @@
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.AssemblyReference.cache
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.dll
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Software Projects 2020\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.dll
+F:\Software Projects 2020\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\farooq\Desktop\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.AssemblyReference.cache
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.dll
+C:\Users\farooq\Desktop\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.AssemblyReference.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.dll
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\Common.pdb
+G:\ASP DotNet Projects\POS\POS.DataService\bin\Debug\netcoreapp3.1\POS.Model.pdb
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\POS\POS.DataService\obj\Debug\netcoreapp3.1\DataService.pdb

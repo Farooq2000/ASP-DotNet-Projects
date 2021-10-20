@@ -1,0 +1,36 @@
+F:\Software Projects 2020\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.deps.json
+F:\Software Projects 2020\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Software Projects 2020\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfoInputs.cache
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfo.cs
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.CoreCompileInputs.cache
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.dll
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Software Projects 2020\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.AssemblyReference.cache
+C:\Users\farooq\Desktop\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.deps.json
+C:\Users\farooq\Desktop\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\farooq\Desktop\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.AssemblyReference.cache
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfoInputs.cache
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfo.cs
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.CoreCompileInputs.cache
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\farooq\Desktop\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.deps.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.AssemblyReference.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfoInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfo.cs
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.CoreCompileInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.pdb
+G:\ASP DotNet Projects\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.deps.json
+G:\ASP DotNet Projects\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.dll
+G:\ASP DotNet Projects\POS\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.pdb
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfo.cs
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.dll
+G:\ASP DotNet Projects\POS\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.pdb

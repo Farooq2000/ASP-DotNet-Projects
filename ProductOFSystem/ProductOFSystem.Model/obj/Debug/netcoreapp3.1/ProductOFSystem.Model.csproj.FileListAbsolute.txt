@@ -1,0 +1,9 @@
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\bin\Debug\netcoreapp3.1\ProductOFSystem.Model.deps.json
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\bin\Debug\netcoreapp3.1\ProductOFSystem.Model.dll
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\bin\Debug\netcoreapp3.1\ProductOFSystem.Model.pdb
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.AssemblyInfo.cs
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.dll
+G:\ASP DotNet Projects\ProductOFSystem\ProductOFSystem.Model\obj\Debug\netcoreapp3.1\ProductOFSystem.Model.pdb

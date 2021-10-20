@@ -1,0 +1,9 @@
+G:\ASP DotNet Projects\SMS\SMS.Model\bin\Debug\netcoreapp3.1\SMS.Model.deps.json
+G:\ASP DotNet Projects\SMS\SMS.Model\bin\Debug\netcoreapp3.1\SMS.Model.dll
+G:\ASP DotNet Projects\SMS\SMS.Model\bin\Debug\netcoreapp3.1\SMS.Model.pdb
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.AssemblyInfo.cs
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.dll
+G:\ASP DotNet Projects\SMS\SMS.Model\obj\Debug\netcoreapp3.1\SMS.Model.pdb

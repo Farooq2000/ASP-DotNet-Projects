@@ -1,0 +1,64 @@
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.AssemblyReference.cache
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfoInputs.cache
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfo.cs
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CoreCompileInputs.cache
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.deps.json
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.dll
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.pdb
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.dll
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Software Projects 2020\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CopyComplete
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.dll
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.pdb
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.deps.json
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.dll
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.pdb
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\farooq\Desktop\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.AssemblyReference.cache
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfoInputs.cache
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfo.cs
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CoreCompileInputs.cache
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CopyComplete
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.dll
+C:\Users\farooq\Desktop\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.deps.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.AssemblyReference.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfoInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfo.cs
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CoreCompileInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CopyComplete
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.pdb
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.deps.json
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.dll
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\API.Core.pdb
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.dll
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\POS.Model.pdb
+G:\ASP DotNet Projects\POS\POS.API.Core\bin\Debug\netcoreapp3.1\Common.pdb
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.AssemblyInfo.cs
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.csproj.CopyComplete
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.dll
+G:\ASP DotNet Projects\POS\POS.API.Core\obj\Debug\netcoreapp3.1\API.Core.pdb

@@ -1,0 +1,4 @@
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\POS.API.Core.csproj.AssemblyReference.cache
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\POS.API.Core.AssemblyInfoInputs.cache
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\POS.API.Core.AssemblyInfo.cs
+F:\Software Projects 2020\POS\POS.API.Core\obj\Debug\netcoreapp3.1\POS.API.Core.csproj.CoreCompileInputs.cache

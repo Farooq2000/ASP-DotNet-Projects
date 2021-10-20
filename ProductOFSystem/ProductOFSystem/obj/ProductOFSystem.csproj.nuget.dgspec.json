@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem\\ProductOFSystem.csproj": {}
+  },
+  "projects": {
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\API.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\API.Core.csproj",
+        "projectName": "API.Core",
+        "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\API.Core.csproj",
+        "packagesPath": "C:\\Users\\farooq\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\farooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\Common.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\Common.csproj"
+              },
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj"
+              },
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\farooq\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\farooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj",
+        "projectName": "DataService",
+        "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj",
+        "packagesPath": "C:\\Users\\farooq\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\farooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj",
+        "projectName": "ProductOFSystem.Model",
+        "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj",
+        "packagesPath": "C:\\Users\\farooq\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\farooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem\\ProductOFSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem\\ProductOFSystem.csproj",
+        "projectName": "ProductOFSystem",
+        "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem\\ProductOFSystem.csproj",
+        "packagesPath": "C:\\Users\\farooq\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\farooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\API.Core.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\API.Core\\API.Core.csproj"
+              },
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\DataService\\DataService.csproj"
+              },
+              "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj": {
+                "projectPath": "G:\\ASP DotNet Projects\\ProductOFSystem\\ProductOFSystem.Model\\ProductOFSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

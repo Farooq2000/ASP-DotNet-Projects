@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7DPMJYZY0WS+V9nijZGd0+L3YuFRnEamjChn9j6ASbgXZMgZt94s4b4YE058f+QjQXzJN69J9cs1sqKOtAVmw==",
+  "success": true,
+  "projectFilePath": "G:\\ASP DotNet Projects\\CMS\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farooq\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\farooq\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

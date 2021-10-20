@@ -1,0 +1,158 @@
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.AssemblyReference.cache
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.MvcApplicationPartsAssemblyInfo.cache
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.Manifest.cache
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.xml
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\scopedcss\bundle\POS.styles.css
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.RazorTargetAssemblyInfo.cache
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\API.Core.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\Common.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\API.Core.pdb
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Software Projects 2020\POS\POS\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Software Projects 2020\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CopyComplete
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\API.Core.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\API.Core.pdb
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\farooq\Desktop\POS\POS\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.AssemblyReference.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.Manifest.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.xml
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\scopedcss\bundle\POS.styles.css
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.RazorTargetAssemblyInfo.cache
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CopyComplete
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+C:\Users\farooq\Desktop\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\API.Core.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Common.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\API.Core.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.AssemblyReference.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.Manifest.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.xml
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\scopedcss\bundle\POS.styles.css
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.RazorTargetAssemblyInfo.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CopyComplete
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+F:\Projects template\.net projects\NK trader's Project\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+F:\Projects template\.net projects\NK trader's Project\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\appsettings.json
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Dapper.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\API.Core.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.dll
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\API.Core.pdb
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\POS.Model.pdb
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\Common.pdb
+G:\ASP DotNet Projects\POS\POS\bin\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.MvcApplicationPartsAssemblyInfo.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.Manifest.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\staticwebassets\POS.StaticWebAssets.xml
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\scopedcss\bundle\POS.styles.css
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.RazorTargetAssemblyInfo.cache
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CopyComplete
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+G:\ASP DotNet Projects\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache

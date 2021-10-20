@@ -1,0 +1,14 @@
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.dll
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\SMS.Model.dll
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\SMS.Model.pdb
+G:\ASP DotNet Projects\SMS\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\SMS\DataService\bin\Debug\netcoreapp3.1\Common.pdb

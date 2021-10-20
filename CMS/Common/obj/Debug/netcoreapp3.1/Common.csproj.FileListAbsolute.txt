@@ -1,0 +1,9 @@
+G:\ASP DotNet Projects\CMS\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+G:\ASP DotNet Projects\CMS\Common\bin\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\CMS\Common\bin\Debug\netcoreapp3.1\Common.pdb
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.dll
+G:\ASP DotNet Projects\CMS\Common\obj\Debug\netcoreapp3.1\Common.pdb
